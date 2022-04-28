@@ -1,4 +1,4 @@
-# Advanced-video-player
+# Advance-video-player
 Creating a GUI to play the video from your local system and add buttons for play, pause and stop.
 After running code Output window have many buttons for select video ,play video , pause video , stop video and for exit this app.
 If we click on select video button, it will ask for video which you want to play.
